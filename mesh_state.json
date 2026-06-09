@@ -1,0 +1,10 @@
+{
+  "timestamp": 1780580415.3175755,
+  "aggregate": "YIELD-SIPHON",
+  "components": {
+    "money_printer": true,
+    "l2_arbitrage": true
+  },
+  "health": 1.0,
+  "yield_rate": 0.9995
+}
